@@ -51,16 +51,16 @@ img {
 
 
 /* PLACEHOLDER STYLES */
-::-webkit-input-placeholder,
+/* ::-webkit-input-placeholder,
 ::-moz-placeholder,
 :-ms-input-placeholder,
 :-moz-placeholder {
   color: rgb(52, 49, 61, 0.5);
   opacity: 1;
-}
+} */
 
 /* AUTOFILL COLOR STYLES */
-input:-webkit-autofill,
+/* input:-webkit-autofill,
 input:-webkit-autofill:hover,
 input:-webkit-autofill:focus,
 textarea:-webkit-autofill,
@@ -73,7 +73,7 @@ select:-webkit-autofill:focus {
   -webkit-text-fill-color: inherit;
   -webkit-box-shadow: 0 0 0px 1000px #fff inset;
   transition: background-color 5000s ease-in-out 0s;
-}
+} */
 
 
 
