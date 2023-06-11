@@ -92,3 +92,36 @@ select:-webkit-autofill:focus {
 .main-content {
   flex-grow: 1;
 }
+
+
+
+
+
+
+
+
+
+
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+}
+
+/* input:not(:focus):not(:placeholder-shown):valid {
+  border-color: greenyellow;
+}
+input:not(:focus):not(:placeholder-shown):invalid {
+  border-color: red;
+}
+
+input:focus + .validation-error,
+input:valid + .validation-error,
+input:placeholder-shown + .validation-error {
+  display: none;
+} */
